@@ -1,4 +1,3 @@
-import "./App.css";
 import Skew from "./Skew";
 
 function App() {
